@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types k
   - Performance tuning
   - Migrations
-  - Schema versioning
-  - Backup and recovery
+  - Schema versioning h
+  - Backup and recovery h
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store k
   - Tuple store
   - Graph databases
-  - Object databases
+  - Object databases h
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL h
   - MariaDB
   - MS SQL Server
   - Redis
