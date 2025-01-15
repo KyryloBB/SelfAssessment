@@ -4,54 +4,54 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm k
-  - Syntax k
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm k
+  - Programm: 🎓 known
   - Programming paradigm
-  - Programming language k
+  - Programming language: 🎓 known
   - Contract
   - Module
-  - Library k
+  - Library: 🎓 known
   - Package
   - Component
-  - Framework k
+  - Framework: 🎓 known
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering k
-  - Decomposition k
+  - Software engineering: 🎓 known
+  - Decomposition: 🎓 known
   - Control flow
   - Data flow
-  - Code reuse k
+  - Code reuse: 🎓 known
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
-  - Scalar u
-  - Literal u
-  - Expression u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function u
+  - Function: 🖐️ used
   - Procedure
-  - Method k
-  - Class k
+  - Method: 🎓 known
+  - Class: 🎓 known
   - Prototype
   - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block k
-  - Conditions u
-  - Loops u
+  - Code block: 🎓 known
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
   - Regular expression
   - Interface
@@ -59,11 +59,11 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case k
-  - Snake case k
-  - Kebab case k
-  - Trailing commas k
-  - Return early k
+  - Camel case: 🎓 known
+  - Snake case: 🎓 known
+  - Kebab case: 🎓 known
+  - Trailing commas: 🎓 known
+  - Return early: 🎓 known
   - Fail-fast
 - Types
   - Primitive types
@@ -82,18 +82,18 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument k
-  - Parameter k
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure k
+  - Closure: 🎓 known
   - Partial application
   - Currying
   - Higher order
-  - Recursion k
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback k
+  - Callback: 🎓 known
   - Listener
   - Composition
   - Pipe
@@ -105,14 +105,14 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array k
+  - Array: 🎓 known
   - Structure
   - Record
   - Enum
   - Instance
-  - Object k
-  - Collection k
-  - Set k
+  - Object: 🎓 known
+  - Collection: 🎓 known
+  - Set: 🎓 known
   - Hash table
   - Linked list
   - Doubly list
@@ -126,9 +126,9 @@
   - Iterator
   - Mutable state
   - Immutable state
-  - Serialization k
-  - String parsing k
-  - JSON k
+  - Serialization: 🎓 known
+  - String parsing: 🎓 known
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
@@ -138,11 +138,11 @@
   - IPv4
   - IPv6
   - NAT
-  - URL k
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
-  - Compiler u
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -153,25 +153,25 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine u
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger k
+  - Debugger: 🎓 known
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review k
+  - Code review: 🎓 known
   - Exception
   - Unittesting
-  - git u
-  - Github u
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers k
+  - Magic numbers: 🎓 known
   - Hard code
   - Soft code
   - Cryptic code
@@ -183,17 +183,17 @@
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code k
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops k
-  - Long method/function/procedure k
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🎓 known
   - Long inheritance
-  - Large class/file k
-  - Too many parameters k
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case k
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux k
-  - Unix k
+  - Linux: 🎓 known
+  - Unix: 🎓 known
   - BSD
-  - MacOS k
-  - Windows u
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8 u
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG

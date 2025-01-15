@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop h
+  - Event loop: 👂 heard
   - `try..catch`k
   - Non-blocking
   - Async I/O
@@ -16,17 +16,17 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming h
-  - Parallel programming h
+  - Concurrent programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Actor Model
   - Thread
   - Process
 - Async contracts
-  - Callbacks k
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise h
-  - Async/await k
+  - Promise: 👂 heard
+  - Async/await: 🎓 known
   - Future
   - Deferred
   - Sync generator
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers h
+  - Timers: 👂 heard
   - `setImmediate`
   - `nextTick`
   - AbortController

@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types k
+  - Data types: 🎓 known
   - Performance tuning
   - Migrations
-  - Schema versioning h
-  - Backup and recovery h
+  - Schema versioning: 👂 heard
+  - Backup and recovery: 👂 heard
   - Database scalability
   - Relational databases
-  - Key-value store k
+  - Key-value store: 🎓 known
   - Tuple store
   - Graph databases
-  - Object databases h
+  - Object databases: 👂 heard
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL h
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis

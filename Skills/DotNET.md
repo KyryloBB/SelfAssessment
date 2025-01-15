@@ -44,7 +44,7 @@
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML) k
+  - Serialization and deserialization (JSON, XML): 🎓 known
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
   - Integration testing
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity h
+  - Unity: 👂 heard
 - Web development
   - ASP.NET Core
   - Blazor

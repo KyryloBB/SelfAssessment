@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming k
+  - Procedural programming: 🎓 known
   - Imperative programming
   - Structured programming
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming h
-  - Parallel programming h
+  - Asynchronous programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -27,14 +27,14 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor h
+  - Constructor: 👂 heard
   - Operator `new`
   - Static method
-  - Method h
+  - Method: 👂 heard
   - Async method
   - Getters, Setters
-  - Public fields h
-  - Private fields h
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
   - Inheritance
   - Parent class
