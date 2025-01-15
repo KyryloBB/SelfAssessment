@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object`
+  - `Object` k
   - `Function`
-  - `Boolean`
-  - `Number`
+  - `Boolean` k
+  - `Number` k
   - `BigInt`
-  - `String`
-  - `Symbol`
+  - `String` k
+  - `Symbol` k
   - `Infinity`
   - `NaN`
   - `undefined`
-  - `null`
+  - `null` k
   - `this`
   - `instanceof`
   - `...spread`
@@ -59,10 +59,10 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
+  - `if`k
+  - `while` k
   - `do..while`
-  - `for`
+  - `for` k
   - `for..in`
   - `for..of`
   - `for await`
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array` k
   - `Map`
   - `Set`
   - `WeakMap`
