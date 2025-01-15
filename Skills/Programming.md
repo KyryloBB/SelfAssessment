@@ -4,54 +4,54 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm k
+  - Syntax k
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm k
   - Programming paradigm
-  - Programming language
+  - Programming language k
   - Contract
   - Module
-  - Library
+  - Library k
   - Package
   - Component
-  - Framework
+  - Framework k
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering k
+  - Decomposition k
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse k
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
+  - Method k
+  - Class k
   - Prototype
   - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
+  - Code block k
+  - Conditions u
+  - Loops u
   - Assignment
   - Regular expression
   - Interface
@@ -59,11 +59,11 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
+  - Camel case k
+  - Snake case k
+  - Kebab case k
+  - Trailing commas k
+  - Return early k
   - Fail-fast
 - Types
   - Primitive types
@@ -82,18 +82,18 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument k
+  - Parameter k
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure k
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion k
   - Tail call optimisation
-  - Callback
+  - Callback k
   - Listener
   - Composition
   - Pipe
@@ -105,14 +105,14 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array k
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
+  - Object k
+  - Collection k
+  - Set k
   - Hash table
   - Linked list
   - Doubly list
@@ -126,9 +126,9 @@
   - Iterator
   - Mutable state
   - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Serialization k
+  - String parsing k
+  - JSON k
   - JSON5
   - YAML
 - Networking
@@ -138,11 +138,11 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL k
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -153,25 +153,25 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine u
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger k
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
+  - Code review k
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers k
   - Hard code
   - Soft code
   - Cryptic code
@@ -183,17 +183,17 @@
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code
+  - Duplicate code k
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops k
+  - Long method/function/procedure k
   - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Large class/file k
+  - Too many parameters k
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case k
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux k
+  - Unix k
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG
