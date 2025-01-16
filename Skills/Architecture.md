@@ -77,7 +77,7 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
+  - Low-code: 👂 heard
   - No-code
   - Metric
   - Metric abuse

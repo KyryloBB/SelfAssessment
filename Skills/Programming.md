@@ -4,54 +4,54 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm: 🎓 known
   - Programming paradigm
-  - Programming language
+  - Programming language: 🎓 known
   - Contract
   - Module
-  - Library
+  - Library: 🎓 known
   - Package
   - Component
-  - Framework
+  - Framework: 🎓 known
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering: 🎓 known
+  - Decomposition: 🎓 known
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse: 🎓 known
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function
+  - Function: 🖐️ used
   - Procedure
-  - Method
-  - Class
+  - Method: 🎓 known
+  - Class: 🎓 known
   - Prototype
   - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
+  - Code block: 🎓 known
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
   - Regular expression
   - Interface
@@ -59,11 +59,11 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
+  - Camel case: 🎓 known
+  - Snake case: 🎓 known
+  - Kebab case: 🎓 known
+  - Trailing commas: 🎓 known
+  - Return early: 🎓 known
   - Fail-fast
 - Types
   - Primitive types
@@ -82,18 +82,18 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure: 🎓 known
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback
+  - Callback: 🎓 known
   - Listener
   - Composition
   - Pipe
@@ -105,14 +105,14 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: 🎓 known
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
+  - Object: 🎓 known
+  - Collection: 🎓 known
+  - Set: 🎓 known
   - Hash table
   - Linked list
   - Doubly list
@@ -126,9 +126,9 @@
   - Iterator
   - Mutable state
   - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Serialization: 🎓 known
+  - String parsing: 🎓 known
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
@@ -138,11 +138,11 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -153,25 +153,25 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 🎓 known
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
+  - Code review: 🎓 known
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers: 🎓 known
   - Hard code
   - Soft code
   - Cryptic code
@@ -183,17 +183,17 @@
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🎓 known
   - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux: 🎓 known
+  - Unix: 🎓 known
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
